@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/christianvieux/file-sharing-api.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/christianvieux/file-sharing-frontend.git
