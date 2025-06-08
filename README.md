@@ -10,8 +10,8 @@ Visit the live application [here.](http://44.203.74.69:3006/home)
 
 This **monorepo** contains two main components:
 
-- [`backend`](https://github.com/christianvieux/file-sharing-api/tree/0fb236cba7d20c453a35b6871df26acb33c661ec) - The **server-side API** 
-- [`frontend`](https://github.com/christianvieux/file-sharing-frontend/tree/dccbd3fcf74b489766f0640104b5f6bfb518009e) - The **web user interface**
+- [`backend`](https://github.com/christianvieux/file-sharing-api) - The **server-side API** 
+- [`frontend`](https://github.com/christianvieux/file-sharing-frontend) - The **web user interface**
 
 Each component has its own setup instructions and technical details in their respective README files.
 
