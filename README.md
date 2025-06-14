@@ -4,7 +4,7 @@ A **file sharing web application** built as my **final project** for the **Gener
 
 ## 🌐 Live App
 
-Visit the live application [here.](http://44.203.74.69:3006/home)
+Visit the live application [here.](http://54.165.74.209:3006/home) 
 
 ## Project Structure
 
